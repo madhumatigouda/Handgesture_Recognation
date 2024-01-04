@@ -1,0 +1,13 @@
+pip install opencv-python=4.5.5.62
+pip install cvzone=1.5.3
+pip install numpy=1.22.1
+pip install autopy=4.0.0
+pip install mediapipe
+pip install pyautogui
+pip install comtypes
+pip install pycaw
+pip install screen-brightness-control
+
+
+
+python = 3.8.16
